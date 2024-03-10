@@ -1,5 +1,3 @@
-this is my sample code....
-
 
 <html>
 <head>
